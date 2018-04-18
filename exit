@@ -1,0 +1,6 @@
+[1mdiff --git a/trydjango1-11/src/muypicky/settings/__pycache__/local.cpython-35.pyc b/trydjango1-11/src/muypicky/settings/__pycache__/local.cpython-35.pyc[m
+[1mindex 8aa09a4..b1f8404 100644[m
+Binary files a/trydjango1-11/src/muypicky/settings/__pycache__/local.cpython-35.pyc and b/trydjango1-11/src/muypicky/settings/__pycache__/local.cpython-35.pyc differ
+[1mdiff --git a/trydjango1-11/src/muypicky/settings/__pycache__/production.cpython-35.pyc b/trydjango1-11/src/muypicky/settings/__pycache__/production.cpython-35.pyc[m
+[1mindex 1e39c87..3bbf85c 100644[m
+Binary files a/trydjango1-11/src/muypicky/settings/__pycache__/production.cpython-35.pyc and b/trydjango1-11/src/muypicky/settings/__pycache__/production.cpython-35.pyc differ
